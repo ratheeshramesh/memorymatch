@@ -33,7 +33,21 @@ memory_match/
 ```
 
 ---
+## 📱 Screenshots
 
+### Preview Mode
+![Preview Mode](screenshots/preview.png)
+
+### Game Start
+![Game Start](screenshots/gamestart.png)
+
+### Gameplay
+![Gameplay](screenshots/gameplay.png)
+
+### Win Screen
+![Win Screen](screenshots/win.png)
+
+---
 ## ⚙️ Prerequisites
 
 Make sure you have the following installed:
