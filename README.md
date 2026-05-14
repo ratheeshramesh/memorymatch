@@ -64,13 +64,13 @@ Expected output of `flutter doctor`:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/<your-username>/memory_match.git
+git clone https://github.com/ratheeshramesh/memorymatch.git
 ```
 
 ### 2. Navigate into the Project
 
 ```bash
-cd memory_match
+cd memorymatch
 ```
 
 ### 3. Install Dependencies
@@ -310,7 +310,7 @@ dependencies:
 
 ## 👨‍💻 Author
 
-**Your Name**
+**Ratheesh Ramesh**
 Student — CS5450 Mobile Programming
 Lakehead University
 
