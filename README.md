@@ -36,16 +36,16 @@ memory_match/
 ## 📱 Screenshots
 
 ### Preview Mode
-![Preview Mode](screenshots/preview.png)
+![Preview Mode](screenshots/gamestart.jpeg)
 
 ### Game Start
-![Game Start](screenshots/gamestart.png)
+![Game Start](screenshots/gamestart.jpeg)
 
 ### Gameplay
-![Gameplay](screenshots/gameplay.png)
+![Gameplay](screenshots/gameplay.jpeg)
 
 ### Win Screen
-![Win Screen](screenshots/win.png)
+![Win Screen](screenshots/win.jpeg)
 
 ---
 ## ⚙️ Prerequisites
